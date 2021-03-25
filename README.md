@@ -24,9 +24,6 @@
 * Como tirar dúvidas técnicas
 * Conectar-se com outros devs [fazerem duplas]
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a37305e-90f6-432b-8b7b-6dcb2d757164/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a37305e-90f6-432b-8b7b-6dcb2d757164/Untitled.png)
-
 ```markdown
 # Apresentação do projeto/aplicação
 
