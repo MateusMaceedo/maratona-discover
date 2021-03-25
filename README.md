@@ -140,3 +140,29 @@ leva tempo e mais conhecimento para que as coisas façam sentido.
     * [x] criar o objeto do perfil de usuário
     * [x] passar o objeto do perfil de usuário para o profile.ejs
 ```
+
+```markdown
+# Recap
+
+* O que você aprender nessa aula ?
+* Comemore. 🎉 Você evoluiu 🚀
+
+```
+
+```markdown
+# Próxima aula
+
+* Spoiler
+* Participe da comunidade
+* Tire dúvidas, ajude outros devs e se envolva por lá
+
+* A aula vai ficar gravada
+* Nosso time estará na comunidade para tirar dúvidas e te deixar por dentro de tudo.
+```
+
+```markdown
+# Mission: Assistir aos cursos
+
+* [] NodeJS
+* [] NodeJS com EJS
+```
