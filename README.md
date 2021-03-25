@@ -2,7 +2,7 @@
 
 ## Maratona Discover
 
-#### Aula 01
+#### 1° Aula - Construindo o motor da nave
 
 ```markdown
 # Qual a proposta deste projeto?
