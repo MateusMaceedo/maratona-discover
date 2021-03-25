@@ -33,3 +33,56 @@
 Teremos um desafio final para quem ir até o fim. Sem dar muitos spoilers. 
 
 ✦ Atenção aos anúncios no Discord e no email, para não perder a oportunidade
+
+```markdown
+# Conceitos
+
+## O que é ser uma pessoa programadora?
+
+* Oportunidades
+	* Front-end
+	* Back-end
+	* Fullstack
+* Mercado
+	* Local x Global
+	* Milhares de vagas
+	* Experiência
+* Soft e Hard Skills
+* Tecnologias e evolução
+* Especialista vs Generalista
+
+## Guia de estudos e organização
+
+* Pomodoro
+* Tenha um lugar reservado para seu estudo
+	* Foco
+	* Silêncio
+	* Interrupções
+* Aprendizado ativo x passivo
+	* Aprenda a se perguntar: Se pergunte o que você acabou de ver
+	* Aprenda a ensinar: Repita o que você acabou de ver.
+* Anotação e Revisão
+	* Anote mais após a aula
+	* Revise suas anotações e busque respostas para o que você
+	não entendeu
+* Pesquisas
+
+## Dica de como acompanhar os vídeos
+
+* Assista com o intuito de entender 
+* Você não precisa decorar (Processador x HD)
+* Code o bloco de código após entender o que foi feito
+* Não tem problema não entender tudo de primeira,
+leva tempo e mais conhecimento para que as coisas façam sentido.
+
+## Ajustando a mentalidade
+
+* Você precisa de tempo
+	* Descanso faz parte do aprendizado (sono)
+	* O cérebro precisa de tempo para assimilar as coisas
+* Você precisa ter persistência
+* Programar é encontrar soluções!
+* "Eu não sou tão bom quanto ... "
+* "Eu sinto que estou só copiando e colando"
+* Você gosta do que está fazendo?
+```
