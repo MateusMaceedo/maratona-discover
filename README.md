@@ -1,3 +1,4 @@
+<img src="https://maratonadiscover.rocketseat.com.br/images/maratona-rocket.png" width="500" height="531.91">
 # Maratona Discover
 
 #### Aula 01
