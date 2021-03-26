@@ -166,6 +166,6 @@ leva tempo e mais conhecimento para que as coisas façam sentido.
 * [] NodeJS com EJS
 ```
 
-#### 1° Aula - Construindo o motor da nave
+#### 1° Aula - Construindo o motor da nave - :heavy_check_mark:
 
-Nesta aula iremos mostrar como colocar um template em HTML, CSS e JS para funcionar em um Back end NodeJS. Utilizaremos a biblioteca Express para criar um servidor e as rotas da nossa aplicação. E iremos utilizar o EJS para a template engine, ou seja, a ferramenta capaz de gerar o HTML e CSS pelo back-end
+Nesta aula iremos mostrar como colocar um template em HTML, CSS e JS para funcionar em um Back end NodeJS. Utilizaremos a biblioteca Express para criar um servidor e as rotas da nossa aplicação. E iremos utilizar o EJS para a template engine, ou seja, a ferramenta capaz de gerar o HTML e CSS pelo back-end.
