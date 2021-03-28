@@ -1,4 +1,53 @@
-<img src="https://maratonadiscover.rocketseat.com.br/images/maratona-rocket.png" width="500" height="531.91">
+<h1 align="center">
+  <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- EJS
+- Express
+- SQLite
+
+
+## 💻 Projeto
+
+O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
 
 ## Maratona Discover
 ```markdown
@@ -29,7 +78,7 @@
 [✦ baixar zip](https://github.com/rocketseat-education/maratona-discover-02/archive/refs/tags/1.0.0.zip)
 ```
 
-Teremos um desafio final para quem ir até o fim. Sem dar muitos spoilers. 
+Teremos um desafio final para quem ir até o fim. Sem dar muitos spoilers.
 
 ✦ Atenção aos anúncios no Discord e no email, para não perder a oportunidade
 
@@ -68,7 +117,7 @@ Teremos um desafio final para quem ir até o fim. Sem dar muitos spoilers.
 
 ## Dica de como acompanhar os vídeos
 
-* Assista com o intuito de entender 
+* Assista com o intuito de entender
 * Você não precisa decorar (Processador x HD)
 * Code o bloco de código após entender o que foi feito
 * Não tem problema não entender tudo de primeira,
@@ -89,7 +138,7 @@ leva tempo e mais conhecimento para que as coisas façam sentido.
 # Bora Codar
 
 * [x] Ambiente
-		* [x] NodeJS 
+		* [x] NodeJS
     * [x] Navegador
     * [x] VS Code
         * [x] Tema
