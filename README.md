@@ -215,17 +215,15 @@ leva tempo e mais conhecimento para que as coisas façam sentido.
 * [] NodeJS com EJS
 ```
 
+- [(Documentação Notion)](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb) - :heavy_check_mark:
+
 #### 1° Aula - Construindo o motor da nave - :heavy_check_mark:
 
 Nesta aula iremos mostrar como colocar um template em HTML, CSS e JS para funcionar em um Back end NodeJS. Utilizaremos a biblioteca Express para criar um servidor e as rotas da nossa aplicação. E iremos utilizar o EJS para a template engine, ou seja, a ferramenta capaz de gerar o HTML e CSS pelo back-end.
 
-- [(Documentação Notion)](https://www.notion.so/Aula-01-59f97d2dc9d54e89a484741d67930cbb) - :heavy_check_mark:
-
 #### 2° Novas peças para o motor - :heavy_check_mark:
 
 Nesta aula nós iremos criar a lógica para enviar formulários e poderemos adicionar, editar e remover conteúdos. Vamos criar os Controllers da nossa aplicação. Os dados serão simulados, por isso, não perca a próxima aula!
-
-- [(Documentação Notion)](https://www.notion.so/Aula-01-59f97d2dc9d54e89a484741d67930cbb) - :heavy_check_mark:
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
