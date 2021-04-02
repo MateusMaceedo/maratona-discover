@@ -215,7 +215,7 @@ leva tempo e mais conhecimento para que as coisas façam sentido.
 * [] NodeJS com EJS
 ```
 
-- [(Documentação Notion)](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb) - :heavy_check_mark:
+- [(Documentação Notion)](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb) - /docsrs/:crate/:version?
 
 #### 1° Aula - Construindo o motor da nave - :heavy_check_mark:
 
