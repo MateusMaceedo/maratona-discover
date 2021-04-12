@@ -214,21 +214,27 @@ leva tempo e mais conhecimento para que as coisas façam sentido.
 * [] NodeJS
 * [] NodeJS com EJS
 ```
-
-- [(Documentação Notion)](https://www.notion.so/Maratona-Discover-59f97d2dc9d54e89a484741d67930cbb) - :rainbow:
-
 #### 1° Aula - Construindo o motor da nave - :heavy_check_mark:
 
 Nesta aula iremos mostrar como colocar um template em HTML, CSS e JS para funcionar em um Back end NodeJS. Utilizaremos a biblioteca Express para criar um servidor e as rotas da nossa aplicação. E iremos utilizar o EJS para a template engine, ou seja, a ferramenta capaz de gerar o HTML e CSS pelo back-end.
+- [(Documentação Notion)](https://www.notion.so/Aula-01-59f97d2dc9d54e89a484741d67930cbb)
 
 #### 2° Novas peças para o motor - :heavy_check_mark:
 
 Nesta aula nós iremos criar a lógica para enviar formulários e poderemos adicionar, editar e remover conteúdos. Vamos criar os Controllers da nossa aplicação. Os dados serão simulados, por isso, não perca a próxima aula!
+- [(Documentação Notion)](https://www.notion.so/Aula-02-8d17de8775ea42a99072976189ba50f4)
 
 #### 3° Construindo o motor da nave - :heavy_check_mark:
 Nesta aula iremos mostrar como colocar um template em HTML, CSS e JS para funcionar em um Back end NodeJS. Utilizaremos a biblioteca Express para criar um servidor e as rotas da nossa aplicação. E iremos utilizar o EJS para a template engine, ou seja, a ferramenta capaz de gerar o HTML e CSS pelo back-end
+- [(Documentação Notion)](https://www.notion.so/Aula-03-22775491e4a045a48a469c118f2d5285)
 
 #### 4° Abrindo a caixa preta - :heavy_check_mark:
+Estamos finalizando nossa aplicação 🎉 e nesta aula iremos nos aprofundar nos conhecimentos de SQL criando updates, select de um único dado e as funções e cálculos para o perfil de usuário.
+- [(Documentação Notion)](https://www.notion.so/Aula-04-935675b295ab42b4814ac0c4153e06f3)
+
+#### 5° Aula de encerramento (ao vivo) - :heavy_check_mark:
+Junte-se a nós na aula de encerramento ao vivo da Maratona Discover, onde vamos interagir, tirar dúvidas e revelar os próximos passos para você continuar evoluindo rapidamente em programação.
+- [(Documentação Notion)](https://www.notion.so/Aula-05-40d6719b1ac648a29f2295530ecad6b6)
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
